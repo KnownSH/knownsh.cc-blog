@@ -4,27 +4,18 @@ build_search_index = true
 default_language = "en"
 
 title = "KnownSHcc"
-theme = "zola-bearblog"
+theme = "anemone"
 
 [markdown]
 render_emoji = true
 highlight_code = true
 
-
 [extra]
-date_format="%d %b, %Y"
 list_pages = false
 author = "KnownSH"
 default_theme = "dark"
 
-translations = [
-  { code="en", name="English" }
+header_nav = [
+  { url = "/", name_en = "home" },
+  { url = "/about", name_en = "about" }
 ]
-
-[[extra.main_menu]]
-name = "Home"
-url = "/"
-
-[[extra.main_menu]]
-name = "About"
-url = "/about"
