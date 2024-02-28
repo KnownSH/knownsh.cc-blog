@@ -2,19 +2,11 @@ base_url = "https://knownsh.cc"
 compile_sass = true
 build_search_index = true
 
-title = "KnownSH Mainpage"
-theme = "after-dark"
-
-taxonomies = [
-    {name = "categories", feed = true},
-    {name = "tags", feed = true},
-]
+title = "KnownSHcc"
+theme = "duckquill"
 
 [markdown]
 highlight_code = true
 
 [extra]
-after_dark_menu = [
-    {url = "$BASE_URL", name = "Home"}
-]
 author = "KnownSH"
