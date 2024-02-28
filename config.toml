@@ -10,7 +10,7 @@ theme = "anemone"
 highlight_code = true
 
 [extra]
-list_pages = true
+list_pages = false
 author = "KnownSH"
 default_theme = "dark"
 
