@@ -7,6 +7,7 @@ title = "KnownSHcc"
 theme = "anemone"
 
 [markdown]
+render_emoji = true
 highlight_code = true
 
 [extra]
