@@ -10,12 +10,21 @@ theme = "anemone"
 render_emoji = true
 highlight_code = true
 
+
 [extra]
+date_format="%d %b, %Y"
 list_pages = false
 author = "KnownSH"
 default_theme = "dark"
 
-header_nav = [
-  { url = "/", name_en = "home" },
-  { url = "/about", name_en = "about" }
+translations = [
+  { code="en", name="English" }
 ]
+
+[[extra.main_menu]]
+name = "Home"
+url = "/"
+
+[[extra.main_menu]]
+name = "About"
+url = "/about"
