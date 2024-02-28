@@ -4,7 +4,6 @@ build_search_index = true
 default_language = "en"
 
 title = "KnownSHcc"
-theme = "anemone"
 
 [markdown]
 render_emoji = true
