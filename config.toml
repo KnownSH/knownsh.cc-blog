@@ -1,4 +1,4 @@
-base_url = "https://knownsh.cc"
+base_url = "https://www.knownsh.cc"
 compile_sass = true
 build_search_index = true
 
