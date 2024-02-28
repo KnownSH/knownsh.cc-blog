@@ -1,3 +1,3 @@
-[submodule "themes/duckquill"]
-	path = themes/duckquill
-	url = https://codeberg.org/daudix/duckquill.git
+[submodule "themes/terminimal"]
+	path = themes/terminimal
+	url = https://github.com/pawroman/zola-theme-terminimal.git
