@@ -1,4 +1,7 @@
 +++
-paginate_by = 5
-sort_by = "date"
 +++
+
+## KnownSH
+
+First time? Check out [my about me page.](./about)
+Welcome to the frontpage of my website, there isn't too much here to see yet.. but don't fret, more will come soon.
