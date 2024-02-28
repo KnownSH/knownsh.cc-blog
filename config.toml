@@ -11,6 +11,7 @@ highlight_code = true
 [extra]
 list_pages = true
 author = "KnownSH"
+default_theme = "dark"
 
 header_nav = [
   { url = "/", name_en = "home/" }
