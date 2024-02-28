@@ -10,12 +10,11 @@ taxonomies = [
     {name = "tags", feed = true},
 ]
 
-after_dark_menu = [
-    {url = "$BASE_URL", name = "Home"}
-]
-
 [markdown]
 highlight_code = true
 
 [extra]
+after_dark_menu = [
+    {url = "$BASE_URL", name = "Home"}
+]
 author = "KnownSH"
