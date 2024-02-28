@@ -3,10 +3,16 @@ compile_sass = true
 build_search_index = true
 
 title = "KnownSHcc"
-theme = "terminimal"
+theme = "anemone"
 
 [markdown]
 highlight_code = true
 
 [extra]
+list_pages = true
 author = "KnownSH"
+display_author = true
+
+header_nav = [
+  { url = "/", name_en = "home" }
+]
