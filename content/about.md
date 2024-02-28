@@ -1,6 +1,5 @@
 +++
+title = "About me"
 +++
-
-# About Me
 
 nothing yet LOL
