@@ -15,5 +15,6 @@ author = "KnownSH"
 default_theme = "dark"
 
 header_nav = [
-  { url = "/", name_en = "home/" }
+  { url = "/", name_en = "home" },
+  { url = "/about", name_en = "about" }
 ]
