@@ -1,0 +1,7 @@
+<nav class="topbar">
+    {% for navitem in config.extra.nav_links %}
+        <a href="{{ navitem.url }}" class="{% if navitem.url == current_url %}activepage{% endif %}">
+            {{ navitem.name }}
+        </a>
+    {% endfor %}
+</nav>
