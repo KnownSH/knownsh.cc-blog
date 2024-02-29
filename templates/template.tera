@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+    <body>
+        <header>
+
+        </header>
+        <main>
+            {% block content %}
+            {% endblock content %}
+        </main>
+        <footer>
+            
+        </footer>
+    </body>
+</html>

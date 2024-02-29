@@ -4,18 +4,9 @@ build_search_index = true
 default_language = "en"
 
 title = "KnownSHcc"
-theme = "anemone"
 
 [markdown]
 render_emoji = true
 highlight_code = true
 
 [extra]
-list_pages = false
-author = "KnownSH"
-default_theme = "dark"
-
-header_nav = [
-  { url = "/", name_en = "home" },
-  { url = "/about", name_en = "about" }
-]
