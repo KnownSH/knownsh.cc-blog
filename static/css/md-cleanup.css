@@ -3,7 +3,7 @@
     -webkit-box-sizing:border-box
 }
 *{
-    margin:0
+    margin: 5px
 }
 html{
     -moz-text-size-adjust:none;
@@ -12,9 +12,6 @@ html{
 }
 blockquote,body,dd,dl,figure,h1,h2,h3,h4,p{
     margin-block-end: 5px
-}
-ol,ol[role=list],ul,ul[role=list]{
-    list-style:none
 }
 body{
     min-height:100vh;
