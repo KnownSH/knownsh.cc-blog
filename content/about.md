@@ -5,10 +5,8 @@ title = "About me"
 ### What I am
 While I prefer to keep most of my personal details private, heres a few things you should know about me.
 
-I'm 18 (bordering 19) years old.
-
-I am a guy, aka I use he/him 🤷‍♂️
-
+I'm 18 (bordering 19) years old.<br>
+I am a guy, aka I use he/him 🤷‍♂️<br>
 Currently reside/born in Canada
 
 My online name is **"KnownSH"** but I also go by
@@ -46,7 +44,7 @@ Theres a whole lot I missed in this list but thats most of it.
     - For reference on how deep I am inteo spaceflight stuff, I once joined a community focused around spaceflight on Discord, tried searching terms that I thought were common and ended up with no results.
     - I'm quite interested in space imagery, even made [a whole iceberg chart](https://icebergcharts.com/i/Interesting_Space_Imagery) just about space images.
 - Even though I don't partake in the Furry community, I do really enjoy furry art[^3]
-    - and yes I do have a [fursona...](/content/about-fursona.md)
+    - and yes I do have a [fursona...](about-fursona/)
 
 <br>
 
