@@ -15,4 +15,4 @@ I am a guy, aka I use he/him 🤷‍♂️
 
 
 ### Footnotes
-[^1]: I perfer not to use this username anymore.
+[^1] I perfer not to use this username anymore.
