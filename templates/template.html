@@ -15,9 +15,11 @@
         <header>
             {% include "header.html" %}
         </header>
-        <main class="padded">
-            {% block content %}
-            {% endblock content %}
+        <main>
+            <div class="padded">
+                {% block content %}
+                {% endblock content %}
+            </div>
         </main>
         <footer>
             
