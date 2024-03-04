@@ -1,4 +1,4 @@
-<nav class="topbar">
+<nav class="bar">
     <h2>KnownSH</h2>
     {% for navitem in config.extra.nav_links %}
         <a href="{{ navitem.url }}" class="{% if navitem.url == current_url %}activepage{% endif %}">

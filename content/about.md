@@ -48,8 +48,17 @@ Theres likely a whole lot I missed in this list but thats most of it.
 
 <br>
 
-### Facts and whatnot
+### Reviews
 
+Formated as (Person who said it):(What they said about me)
+
+- Darter: Handsome
+
+<br>
+
+### Random Images that might relate to this page
+
+Nothing HAHAHA
 
 <br>
 
