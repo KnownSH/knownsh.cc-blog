@@ -6,6 +6,6 @@
   font-size: medium;
 }
 
-p {
-  padding-inline: 50px;
+.padded {
+  padding: 0px, 50px
 }
