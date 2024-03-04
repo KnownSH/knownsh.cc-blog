@@ -1,11 +1,13 @@
+li::marker {
+  color: #ff5323
+}
 .topbar {
   padding: 10px 50px;
   text-align: center;
-  background: #ff5323c1;
+  background: #ff5323;
   color: white;
   font-size: medium;
 }
-
 .padded {
   margin: auto;
   width: 50%;
