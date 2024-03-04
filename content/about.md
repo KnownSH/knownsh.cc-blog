@@ -64,6 +64,6 @@ Nothing HAHAHA
 
 ### Footnotes
 [^1] I perfer not to use this username anymore.<br>
-[^2] Most of this website is done via [Zola](https://www.getzola.org/)/[Tera](https://keats.github.io/tera/docs/) which still uses HTML/CSS the base of the template 
+[^2] Most of this website is done via [Zola](https://www.getzola.org/)/[Tera](https://keats.github.io/tera/docs/) which still uses HTML/CSS at the base of the template 
 engine<br>
 [^3] If you are somehow shocked/offended by this, im sorry.
