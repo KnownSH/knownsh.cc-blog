@@ -1,5 +1,5 @@
 base_url = "https://knownsh.cc"
-compile_sass = true
+compile_sass = false
 build_search_index = true
 default_language = "en"
 
