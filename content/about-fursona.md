@@ -2,6 +2,6 @@
 title = "Here you go"
 +++
 
-![fursona](images/actualref.png)
+![fursona](https://www.knownsh.cc/images/actualref.png)
 
 [Go back to about](/about)

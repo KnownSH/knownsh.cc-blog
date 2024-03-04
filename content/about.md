@@ -32,7 +32,7 @@ Other than programming, I also do
 - Photoshop image processing
 - Some drawing
 
-Theres a whole lot I missed in this list but thats most of it.
+Theres likely a whole lot I missed in this list but thats most of it.
 
 <br>
 
@@ -41,7 +41,7 @@ Theres a whole lot I missed in this list but thats most of it.
     - My favourite rocket engine is the [RL10](https://en.wikipedia.org/wiki/RL10)
     - My favourite small asteroid system is [the Dinkinesh system](https://en.wikipedia.org/wiki/152830_Dinkinesh)
     - I don't have a favourite planet however I do think Uranus is pretty neat
-    - For reference on how deep I am inteo spaceflight stuff, I once joined a community focused around spaceflight on Discord, tried searching terms that I thought were common and ended up with no results.
+    - For reference on how deep I am into the spaceflight stuff, I once joined a community focused around spaceflight on Discord, tried searching terms that I thought were common and ended up with no results.
     - I'm quite interested in space imagery, even made [a whole iceberg chart](https://icebergcharts.com/i/Interesting_Space_Imagery) just about space images.
 - Even though I don't partake in the Furry community, I do really enjoy furry art[^3]
     - and yes I do have a [fursona...](about-fursona/)
@@ -54,9 +54,7 @@ Theres a whole lot I missed in this list but thats most of it.
 <br>
 
 ### Footnotes
-[^1] I perfer not to use this username anymore.
-
+[^1] I perfer not to use this username anymore.<br>
 [^2] Most of this website is done via [Zola](https://www.getzola.org/)/[Tera](https://keats.github.io/tera/docs/) which still uses HTML/CSS the base of the template 
-engine
-
+engine<br>
 [^3] If you are somehow shocked/offended by this, im sorry.
