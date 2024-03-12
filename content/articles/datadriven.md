@@ -13,8 +13,8 @@ This page is currently just for documenting my data driven tycoon system.<br>
 ## Core
 The primary data format, every other format inherits Core in some way shape or form.
 
-- [table]: The table everything in the datafile is stored in.
+- [dict]: The table everything in the datafile is stored in.
     - [string] **format**: A simple guiding value thats required in every datafile. Tells the data generator what the datafile is used for.
-    - [table?] **custom**: If a datafile gets a successful trigger, it will check if this table exists and excute the function + metadata within.
+    - [dict?] **custom**: If a datafile gets a successful trigger, it will check if this table exists and excute the function + metadata within.
         - [() -> nil] **func**: This function is called when the datafile gets a trigger, in Core, this doesn't have any parameters or return values.
 
