@@ -5,7 +5,7 @@ title = "About me"
 ### What I am
 While I prefer to keep most of my personal details private, heres a few things you should know about me.
 
-I'm 18 (bordering 19) years old.<br>
+I'm 19 years old.<br>
 I am a guy, aka I use he/him 🤷‍♂️<br>
 Currently reside/born in Canada
 
@@ -40,8 +40,6 @@ Theres likely a whole lot I missed in this list but thats most of it.
 - Massive spaceflight nerd, borderline chronic
     - I enjoy the [RL10](https://en.wikipedia.org/wiki/RL10)
     - I'm quite interested in space imagery, even made [a whole iceberg chart](https://icebergcharts.com/i/Interesting_Space_Imagery) just about space images.
-- Even though I don't partake in the Furry community, I do really enjoy furry art[^3]
-    - and yes I do have a [fursona...](about-fursona/)
 
 <br>
 
