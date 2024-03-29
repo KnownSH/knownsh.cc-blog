@@ -48,6 +48,7 @@ Theres likely a whole lot I missed in this list but thats most of it.
 Formated as (Person who said it):(What they said about me)
 
 - Darter: Handsome
+- Pin: this dork got me chronically addicted to spaceflight… again.
 
 <br>
 
