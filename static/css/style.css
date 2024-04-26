@@ -1,13 +1,6 @@
 li::marker {
   color: #ff9a62;
 }
-.topbar {
-  padding: 10px 50px;
-  text-align: center;
-  background: #24282f;
-  color: white;
-  font-size: medium;
-}
 #content-box {
   margin: 20px auto;
   width: 60%; 
@@ -24,3 +17,27 @@ body {
 a {
   color: #9adcfb;
 }
+
+.topbar { 
+  padding: 15px; 
+  background-color: #24282f; 
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.topbar h2 {
+  margin-right: 20px;
+}
+.topbar a {
+  color: #e8eaed;
+  text-decoration: none;
+  margin: 0 10px;
+  transition: color 0.3s ease;
+}
+.topbar a:hover {
+  color: #9adcfb;
+}
+.topbar .activepage { 
+  font-weight: bold;
+} 
