@@ -19,16 +19,19 @@ a {
 }
 
 .topbar { 
-  padding: 15px; 
   background-color: #24282f; 
   color: white;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  flex-direction: column; /* Stack items vertically */
+  align-items: flex-start;  /* Align left */
+  padding: 20px;
 }
 .topbar h2 {
-  margin-right: 20px;
-}
+  margin-right: 0;
+  margin-bottom: 10px; /* Space between title and links */
+} 
 .topbar a {
   color: #e8eaed;
   text-decoration: none;
