@@ -19,12 +19,14 @@ a {
 }
 
 .topbar { 
+  border-radius: 8px;
+  width: 60%;
   background-color: #24282f; 
   color: white;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  flex-direction: column; /* Stack items vertically */
+  flex-direction: row; /* Stack items vertically */
   align-items: center;  /* Align left */
   text-align: center;
   padding: 20px;
