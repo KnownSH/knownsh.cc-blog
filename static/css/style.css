@@ -1,15 +1,26 @@
 li::marker {
-  color: #ff5323
+  color: #ff9a62;
 }
 .topbar {
   padding: 10px 50px;
   text-align: center;
-  background: #ff5323;
+  background: #24282f;
   color: white;
   font-size: medium;
 }
 #content-box {
-  margin: auto;
-  width: 60%;
-  padding: 10px;
+  margin: 20px auto;
+  width: 60%; 
+  padding: 20px; 
+  background-color: #24282f;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+body {
+  background-color: #181a1e; 
+  color: #e8eaed;
+  transition: background-color 0.5s ease;
+}
+a {
+  color: #9adcfb;
 }
