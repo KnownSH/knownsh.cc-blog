@@ -19,6 +19,7 @@ a {
 }
 
 .topbar { 
+  margin: 20px auto;
   border-radius: 8px;
   width: 60%;
   background-color: #24282f; 
