@@ -25,7 +25,8 @@ a {
   align-items: center;
   justify-content: space-between;
   flex-direction: column; /* Stack items vertically */
-  align-items: flex-start;  /* Align left */
+  align-items: center;  /* Align left */
+  text-align: center;
   padding: 20px;
 }
 .topbar h2 {
