@@ -18,7 +18,7 @@ My online name is **"KnownSH"** but I also go by
 
 ### What I do
 I'm a hobbyist programmer whos been programming for around 5 years in multiple languages and frameworks.
-- I'm highly proficent in [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language)) and [Luau](https://luau-lang.org/) (Roblox's flavor of Lua)
+- I'm highly proficent in [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language)) and [Luau](https://luau-lang.org/)
     - I've worked on several Roblox games such as [Universal Guardians](https://www.roblox.com/games/8698405129/Universal-Guardians-BETA) and [Facility](https://www.roblox.com/games/6052240333/Facility-HORROR)
     - Have worked with almost every mainstream roblox framework, api and library including [Rojo](https://rojo.space/), [Knit](https://sleitnick.github.io/Knit/), [Promise](https://eryn.io/roblox-lua-promise/), [ProfileService](https://madstudioroblox.github.io/ProfileService/), [DataStore2](https://kampfkarren.github.io/Roblox/), [Fusion](https://elttob.uk/Fusion/0.2/), and a bit of [Roact](https://roblox.github.io/roact/)
 - Fairly decent at [Python](https://www.python.org/), frequently use it for very specific tasks
