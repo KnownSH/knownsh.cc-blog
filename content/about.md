@@ -15,8 +15,6 @@ My online name is **`"KnownSH"`** but I also go by
 
 <br>
 
----
-
 > ## What I Do
 
 I'm a hobbyist programmer with around 5 years of experience in multiple languages and frameworks.
