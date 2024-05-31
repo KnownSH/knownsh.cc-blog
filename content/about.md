@@ -71,6 +71,7 @@ I'm a hobbyist programmer with around 5 years of experience in multiple language
 - Massive spaceflight nerd, borderline chronic
     - I enjoy the [RL10](https://en.wikipedia.org/wiki/RL10)
     - I'm quite interested in space imagery, even made [a whole iceberg chart](https://icebergcharts.com/i/Interesting_Space_Imagery) just about space images.
+- If you want to draw "me", for some reason, [my reference art is hosted on this website](./articles/reference)
 
 <br>
 
