@@ -10,9 +10,10 @@
         <meta content="Your looking at this on Discord, aren't you?" property="og:description" />
         <meta content="https://knownsh.cc/" property="og:url" />
         <meta content="#ff8c21" data-react-helmet="true" name="theme-color" />
+        <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+        <title> KnownSH's Website </title>
 
         {% block css %}
-        <link rel="stylesheet" type="text/css" href="css/md-cleanup.css"/>
         <link rel="stylesheet" type="text/css" href="css/style.css"/>
         {% endblock css %}
     </head>
@@ -26,5 +27,8 @@
                 {% endblock content %}
             </div>
         </main>
+        <footer>
+            {% include "footer.html" %}
+        </footer>
     </body>
 </html>

@@ -1,8 +1,15 @@
+<h2 class="logo_name">
+    <img src="images/icon.png" alt="icon">
+    KnownSH
+</h2>
 <nav class="topbar">
-    <h2>KnownSH</h2>
-    {% for navitem in config.extra.nav_links %}
-        <a href="{{ navitem.url }}" class="{% if navitem.url == current_url %}activepage{% endif %}">
-            {{ navitem.name }}
-        </a>
-    {% endfor %}
+    <ul class="navbar_links">
+        <li>
+            {% for navitem in config.extra.nav_links %}
+                <a href="{{ navitem.url }}" class="{% if navitem.url == current_url %}activepage{% endif %}">
+                    {{ navitem.name }}
+                </a>
+            {% endfor %}
+        </li>
+    </ul>
 </nav>

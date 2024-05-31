@@ -1,64 +1,168 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
 
 * {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 400;
-  font-style: normal;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(0, 0, 0);
 }
 
-li::marker {
-  color: #ff9a62;
-}
-#content-box {
-  margin: 20px auto;
-  max-width: 60%;
-  width: 95%; 
-  padding: 20px; 
-  background-color: #24282f;
-  border-radius: 8px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
-}
-@media (min-width: 600px) {
-  #content-box {
-    width: 60%
-  }
-}
-body {
-  background-color: #181a1e; 
-  color: #e8eaed;
-  transition: background-color 0.5s ease;
-}
-a {
-  color: #9adcfb;
-}
-
-.topbar { 
-  margin: 20px auto;
-  border-radius: 8px;
-  width: 60%;
-  background-color: #24282f; 
+h1, h2, h3, strong, p, a {
+  font-family: "Plus Jakarta Sans", sans-serif;
   color: white;
+  margin-bottom: 10px;
+  font-weight: 300;
+}
+
+.logo_name {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  flex-direction: row; /* Stack items vertically */
-  align-items: center;  /* Align left */
-  text-align: center;
-  padding: 20px;
+  font-weight: 500;
+  background: -webkit-linear-gradient(50deg, #d46b4e, #a78177);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
-.topbar h2 {
-  margin-right: 0;
-  margin-bottom: 10px; /* Space between title and links */
-} 
-.topbar a {
-  color: #e8eaed;
+
+.logo_name img {
+  margin-right: 3px;
+  width: 1.2em;
+  filter: contrast(110%);
+}
+
+.navbar_links {
+  list-style: none;
+}
+
+.navbar_links li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.navbar_links li a {
+  transition: all 0.2s ease 0s;
+}
+
+.navbar_links li a:hover {
+  color: #a78177;
+}
+
+li, a {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 400;
+  color: white;
+  font-size: 20px;
   text-decoration: none;
-  margin: 0 10px;
-  transition: color 0.3s ease;
 }
-.topbar a:hover {
-  color: #9adcfb;
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 20%;
 }
-.topbar .activepage { 
-  font-weight: bold;
-} 
+
+main {
+  padding: 5px 20%;
+  margin-bottom: 10px;
+}
+
+strong {
+  color: #ffffff;
+  font-size: 17px;
+  font-weight: 1000;
+}
+
+main a {
+  color: #c97962;
+  font-size: 17px;
+  transition: all 0.2s ease 0s;
+}
+
+main a:hover {
+  color: #e9623c;
+}
+
+main li {
+  margin-left: 40px;
+  margin-bottom: 5px;
+}
+
+ul li {
+  font-size: 17px;
+}
+
+em {
+  font-style: italic;
+}
+
+main li::marker {
+  font-size: 18px;
+}
+
+blockquote {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  border-left: 4px solid #ac533b;
+  padding: 10px;
+  margin-bottom: 10px;
+  color: #333;
+  background-color: #141414;
+  border-radius: 5px;
+}
+
+blockquote * {
+  color: rgb(255, 255, 255);
+  background-color: #141414;
+  margin-bottom: 0px;
+}
+
+hr {
+  margin-bottom: 10px;
+}
+
+code {
+  padding: 0px 5px;
+  font-family: "JetBrains Mono", monospace;
+  font-weight: 500;
+  background-color: #ac533b;
+  border-radius: 5px;
+}
+
+pre code {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 16px;
+  font-weight: 200;
+  line-height: 1.5;
+}
+
+pre code * {
+  background-color: #2b303b;
+}
+
+pre {
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  border-left: 4px solid #c97962;
+}
+
+img, video {
+  display: block;
+  margin: 1rem auto;
+  box-shadow: var(--shadow);
+  border-radius: var(--rounded-corner);
+  max-width: 100%;
+}
+
+.img_250px {
+  max-height: 250px;
+}
+
+.flexrow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+}

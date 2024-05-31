@@ -9,6 +9,9 @@ title = "KnownSHcc"
 render_emoji = true
 highlight_code = true
 
+[static.css]
+custom = ["css/custom.css"]
+
 [extra]
 nav_links = [
   {url = "/", name = "home"},
