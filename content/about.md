@@ -1,7 +1,12 @@
 +++
 +++
 
-> ## What I am
+>## Want to hire me?
+>I'm planning on making a portfolio page in the next few days, stay on the lookout for that!
+
+<br>
+
+> ### What I am
 While I prefer to keep most of my personal details private, heres a few things you should know about me.
 
 &nbsp;&nbsp;I'm 19 years old.\
@@ -9,9 +14,17 @@ While I prefer to keep most of my personal details private, heres a few things y
 &nbsp;&nbsp;Canadian.
 
 My online name is **`"KnownSH"`** but I also go by
-- Known
-- Knownser
-- and KnownShhs if your an old friend of mine
+- *Known*
+- *Knownser*
+- and *KnownShhs* if you're an old friend of mine
+
+<br>
+
+**Social Links**
+- [Discord](https://discordapp.com/users/292858069371584513)
+- [Youtube Main](https://www.youtube.com/@knownscripts7015)
+- [Youtube 2](https://www.youtube.com/@KnownSH-MC)
+- [Old Youtube Channel](https://www.youtube.com/channel/UCHDoCbe8HwA63RpG9KKX51Q)
 
 <br>
 
@@ -21,29 +34,35 @@ I'm a hobbyist programmer with around 5 years of experience in multiple language
 
 ### Proficient in:
 
-- `Lua` and `Luau`: I have worked on several Roblox games such as [Universal Guardians](https://www.roblox.com/games/8698405129/Universal-Guardians-BETA) and [Facility](https://www.roblox.com/games/6052240333/Facility-HORROR).
-  - I've worked with almost every mainstream Roblox framework, API, and library, including:
-    - [Rojo](https://rojo.space/)
-    - [Knit](https://sleitnick.github.io/Knit/)
-    - [Promise](https://eryn.io/roblox-lua-promise/)
-    - [ProfileService](https://madstudioroblox.github.io/ProfileService/)
-    - [DataStore2](https://kampfkarren.github.io/Roblox/)
-    - [Fusion](https://elttob.uk/Fusion/0.2/)
-    - [Roact](https://roblox.github.io/roact/)
+- `Lua` and `Luau`: 
+
+    - I have worked on several Roblox games (sorry) such as [Universal Guardians](https://www.roblox.com/games/8698405129/Universal-Guardians-BETA) and [Facility](https://www.roblox.com/games/6052240333/Facility-HORROR).
+    - I've worked with almost every mainstream Roblox framework, API, and library, including:
+        - [Rojo](https://rojo.space/)
+        - [Knit](https://sleitnick.github.io/Knit/)
+        - [Promise](https://eryn.io/roblox-lua-promise/)
+        - [ProfileService](https://madstudioroblox.github.io/ProfileService/)
+        - [DataStore2](https://kampfkarren.github.io/Roblox/)
+        - [Fusion](https://elttob.uk/Fusion/0.2/)
+        - [Roact](https://roblox.github.io/roact/)
+    - Outside of Roblox, ive also messed around with [Figura](https://modrinth.com/mod/figura) as well as made my own custom plugin for it called [FiguraSVC](https://modrinth.com/mod/figurasvc)
 
 &nbsp;
 
 ### Decent in:
-- `Python:` I frequently use it for specific tasks.
+- `Python`
+    - CV2
+    - Flask
+    - matplotlib
 - `Java:` have worked on porting a [Minecraft Forge Mod](https://github.com/KnownSH/Cyclic-Fabric) to [Fabric](https://fabricmc.net/) using Java.
-- `HTML/CSS:` This website itself, was created by me.
+- `HTML/CSS`
 
 <br>
 
 ### Currently Learning / Have Some Knowledge Of:
 - `Rust`
 - **`Kotlin`**
-- **`JavaScript and TypeScript`**
+- **`JavaScript` and `TypeScript`**
 - **`Bash`**
 
 &nbsp;
