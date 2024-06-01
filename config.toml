@@ -8,7 +8,7 @@ title = "KnownSHcc"
 [markdown]
 render_emoji = true
 highlight_code = true
-highlight_theme = "dracula"
+highlight_theme = "material-dark"
 
 [extra]
 nav_links = [
