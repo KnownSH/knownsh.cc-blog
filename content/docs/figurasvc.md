@@ -1,5 +1,10 @@
 +++
 +++
+
+<head>
+    <meta content="Intro to FiguraSVC 1.1.0" property="og:description" />
+</head>
+
 # Intro to FiguraSVC 1.1.0
 A simple unofficial addon for [Figura](https://modrinth.com/mod/figura) that allows Simple Voice Chat to be detected by Figura Lua scripts. \
 **This works without any serverside code or mods.**
